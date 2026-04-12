@@ -1,19 +1,12 @@
-# Telegram Bot (Python)
+<p align="center"><img src="logo.png" alt="telegram-bot-python" width="120"></p>
 
-<p align="center"><img src="logo.png" alt="Telegram Bot" width="120"></p>
-
-
-[![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com)
-[![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/telegram-bot-python/actions)
-[![License](https://img.shields.io/github/license/stackblaze-templates/telegram-bot-python)](LICENSE)
+# Telegram Bot (Python) [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/telegram-bot-python/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/telegram-bot-python)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 A Telegram bot built with python-telegram-bot. Includes command handlers, message handlers, and a modular structure.
 
 > **Credits**: Built on [Telegram Bot (Python)](https://python-telegram-bot.org) by [python-telegram-bot](https://github.com/python-telegram-bot). All trademarks belong to their respective owners.
 
 ## Deploy on StackBlaze
-
-[![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 This template includes a `stackblaze.yaml` for one-click deployment on [StackBlaze](https://stackblaze.com).
 
